@@ -1,1 +1,1 @@
-<b>For started:</b> symfony:serve
+<b>For started:</b> symfony serve
